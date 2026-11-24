@@ -2,6 +2,8 @@
 
 An interactive, in-browser educational tool to explore and understand language model perplexity from first principles to real neural predictions.
 
+🌐 **Live Demo:** [https://soumilsri21.github.io/perplexity-explorer/](https://soumilsri21.github.io/perplexity-explorer/)
+
 ## Features
 
 - **Section 1 – Sentence Perplexity with Real Model**:
